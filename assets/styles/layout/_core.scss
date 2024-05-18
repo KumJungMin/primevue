@@ -5,7 +5,8 @@ html {
 body {
     margin: 0px;
     min-height: 100%;
-    overflow-x: hidden;
+    // TODO: test this
+    // overflow-x: hidden;
     overflow-y: auto;
     background-color: var(--surface-ground);
     font-weight: normal;
